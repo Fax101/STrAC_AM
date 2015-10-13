@@ -4,6 +4,8 @@ Stirgoy
 STrAC_AM
 Variables requeridas.
 */
+//Para abrir el menu usa tu script manejador de teclas y añade este codigo a la tecla deseada: createDialog "STrAC_AM_M";
+//El menu se abrira en funcion del nivel de administrador adjudicado
 //___________________________________________________________________________________________________________________________
 //Establece los marcadores en falso esta variable no puede ser nula
 STrAC_Marks = false;
