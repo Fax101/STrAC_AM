@@ -4,6 +4,7 @@ Stirgoy
 STrAC_AM
 Variables requeridas.
 */
+//To open menu use your keyhandler script to set up and use this code to open: createDialog "STrAC_AM_M";
 //___________________________________________________________________________________________________________________________
 //Set markers variable
 STrAC_Marks = false;
